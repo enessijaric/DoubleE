@@ -1,1 +1,7 @@
-ne znam da li je konacan fajl Specifikacija zahteva, ali ako jeste fali mdl fajl sa use case dijagramima.
+define project 2-2
+predlog projekta 2-2
+raspored aktivnosti 2-2
+vizija sistema 3-3
+specifikacija zahteva 5-5
+Odlicno!!!
+kad budete predavali detaljni arhitekturni projekat i kompletan uml imajte u vidu da svi uml dijagrami treba da budu u jednom mdl fajlu
